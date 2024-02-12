@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-2xl mx-auto p-11 bg-white border border-gray-200 rounded-lg shadow-lg">
+    <div class="max-w-lg mx-auto p-11 bg-white border border-gray-200 rounded-lg shadow-lg">
         <h1 class="text-center text-4xl font-semibold mb-5 text-purple-900">Login</h1>
 
         <form class="space-y-6">
@@ -15,7 +15,7 @@
             </div>
 
             <div class="flex justify-center">
-                <button class="py-3 px-6 bg-purple-600 text-white rounded-xl text-xl">Login</button>
+                <button class="py-2 px-5 bg-purple-600 text-white rounded-xl text-xl">Login</button>
             </div>
 
             <p class="font-medium text-center text-xl">
